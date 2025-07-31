@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Malcon Donovan. 
 
-<!--
-**Malcon-d/Malcon-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, também estou estudando e aperfeiçoando ferramentas como o Python, Power BI, SQL, Excel
+Com foco na Análise de Dados. 
 
-Here are some ideas to get you started:
+💡 Descobri, por necessidade e curiosidade, o mundo de Dados e me apaixonei. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tenho interesse em estratégias, resoluções, perfomance e eficiência, que utilizam ferramentas de dados.
+
+🚀 No ambiente pessoal, sou apaixonado por jogos, familia e futebol.
+
+📫 Contato
+
+Você pode me encontrar em:
+- [LinkedIn](www.linkedin.com/in/malcon-donovan-259b0536b)
+- E-mail: malcon.96@hotmail.com
+
+---
+
+> Este projeto é um estudo pessoal e está aberto a contribuições!
