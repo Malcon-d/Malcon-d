@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Malcon Donovan. 
+ ## 👋 Olá! Eu sou o Malcon Donovan. 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, também estou estudando e aperfeiçoando ferramentas como o Python, Power BI, SQL, Excel
 Com foco na Análise de Dados. 
@@ -13,7 +13,7 @@ Com foco na Análise de Dados.
 
 Você pode me encontrar em:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malcon-donovan/{:target="_blank"})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malcon-donovan/)
 
 
 ✉️ E-mail: malcon.96@hotmail.com
