@@ -12,8 +12,8 @@ Com foco na Análise de Dados.
 📫 Contato
 
 Você pode me encontrar em:
-- [LinkedIn](www.linkedin.com/in/malcon-donovan-259b0536b)
-- E-mail: malcon.96@hotmail.com
+🔗[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/malcon-donovan-259b0536b)
+✉️ E-mail: malcon.96@hotmail.com
 
 ---
 
